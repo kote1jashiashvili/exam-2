@@ -1,0 +1,52 @@
+div
+{
+    text-align: center;
+    background-color: rgb(33, 191, 253);
+}
+
+
+body
+{
+    background-color: rgb(171, 250, 246);
+    text-align: center;
+}
+
+.diva
+{
+    border: 5px solid black;
+    color: green;
+}
+
+.rules
+{
+    border: 5px solid black;
+    color: green;
+}
+
+
+.no-rules
+{
+    border: 5px solid black;
+    color: Red;
+}
+
+
+.register
+{
+    border: 5px solid black;
+    color: blueviolet;
+}
+
+input
+{
+    background-color: rgb(198, 137, 255);
+}
+
+.contact
+{
+    border: 5px solid black;
+    color: yellow;
+}
+
+
+
